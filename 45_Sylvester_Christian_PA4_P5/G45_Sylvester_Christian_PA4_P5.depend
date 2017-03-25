@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1412223508 source:c:\users\christian\documents\introduction to computer science\g45_sylvester_christian_pa4_p5\g45_sylvester_christian_pa4_p5.cpp
+	<iostream>
+	<iomanip>
+

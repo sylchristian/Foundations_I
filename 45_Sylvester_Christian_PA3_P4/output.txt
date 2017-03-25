@@ -1,0 +1,12 @@
+This program was written by: Christian Sylvester
+
+
+Given the initial cost of the house, estimated annual fuel cost, and the annual tax rate,
+the function of this program is to determine the total cost after a five year period for
+a house.
+
+
+Initial House Cost     Annual Fuel Cost     Tax Rate     Total Cost
+
+    167000                    2300             0.025       199375
+    162000                    2500             0.025       194750
